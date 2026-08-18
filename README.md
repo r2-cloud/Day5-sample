@@ -14,8 +14,6 @@
 2.Item-3<br>
 -[]music
 -[]strong reading<br>
--[x]watching file<br>
-[!wallpaper](https://www.rawpixel.com/search/aesthetic%20wallpaper)
-<br>
-🍤
+-[x]watching file<br>(<img width="335" height="597" alt="image" src="https://github.com/user-attachments/assets/a6d67bb2-d688-44bb-ba5d-f29e730e43e7" />
+
 
