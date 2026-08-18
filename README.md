@@ -17,10 +17,7 @@
 -[x]watching file<br>(<img width="335" height="597" alt="image" src="https://github.com/user-attachments/assets/a6d67bb2-d688-44bb-ba5d-f29e730e43e7")
 <br>
 | Name | Age | Qualification |<br>
-| xxx | yy | zzz |
-:---left-align
-:---center-align
-:---right-align
+| -----|----|----------------|
 
 
 
