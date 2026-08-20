@@ -26,7 +26,13 @@ Creating Drop-down
 click for hidden contents
 </summary>
 </details>
-[git-hub]("https:\\github.com")
-[git-hub](https:\\github.com"
+[git-hub]("https:\\github.com")<hr>
+[git-hub]("https:\\github.com" "click title")
+<mark>This is example for highliting terd</mark>
+## Event planning guide
+## Community cleanup event
+#### objective<br>\
+<p>organize a neighborhood cleanup to</p>
+
 
 
