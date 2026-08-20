@@ -32,7 +32,7 @@ click for hidden contents
 ## Event planning guide
 ## Community cleanup event
 #### objective<br>\
-<p>organize a neighborhood cleanup to</p>
+<p>organize a neighborhood cleanup to </p>
 
 
 
